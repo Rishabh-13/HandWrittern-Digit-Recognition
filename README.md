@@ -12,4 +12,4 @@ Steps:
 * Feature Scaling
 * PCA Implementation
 * Building and Training model (using Logistic regression OR SVM)
-* Test the model
+* Test the model  
